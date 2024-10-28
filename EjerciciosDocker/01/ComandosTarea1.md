@@ -31,4 +31,4 @@ docker --version
 ### Paso 9: Ejecutar el contenedor de prueba "Hola Mundo"
 docker run hello-world
 
-## ![] 
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/EjerciciosDocker/01/Docker.jpg)
