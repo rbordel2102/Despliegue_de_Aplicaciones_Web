@@ -19,4 +19,4 @@ Esto hace lo mismo, pero redirige el puerto 80 al 8282.
 
 ## ![](https://github.com/rbordel2102/Despliegue/blob/master/EjerciciosDocker/08/Captura1.PNG)
 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/EjerciciosDocker/08/Captur2.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/EjerciciosDocker/08/Captura2.PNG)
