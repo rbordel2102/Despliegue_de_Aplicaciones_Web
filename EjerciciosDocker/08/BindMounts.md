@@ -2,7 +2,7 @@
 Creo una carpeta llamada saludo:
 mkdir saludo
 Dentro de esta carpeta, creo un archivo index.html con el siguiente contenido:
-"<h1>HOLA SOY ROBERTO BORREGO</h1>"
+h1 HOLA SOY ROBERTO BORREGO h1
 
 ## 2. Arrancar los contenedores con Bind Mounts
 Arranco el contenedor c1:
