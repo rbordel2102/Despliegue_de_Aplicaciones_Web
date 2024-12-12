@@ -74,4 +74,4 @@ sudo docker-compose up -d
 
 ---
 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/EjerciciosDocker/Compose/Compose.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/EjerciciosDocker/Compose/Compose.png)
