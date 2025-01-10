@@ -32,7 +32,7 @@
 4. **Reflexión sobre permisos:**
    - *Pregunta:* ¿Por qué es mala idea usar `chmod 777 test.sh`?
      - Respuesta: Esto da permisos de lectura, escritura y ejecución a todos los usuarios, lo que puede ser un riesgo de seguridad, ya que cualquier persona podría modificar o ejecutar el archivo de manera maliciosa.
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura1.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura1.PNG)
 ## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura2.png)
 ---
 
