@@ -33,7 +33,7 @@
    - *Pregunta:* ¿Por qué es mala idea usar `chmod 777 test.sh`?
      - Respuesta: Esto da permisos de lectura, escritura y ejecución a todos los usuarios, lo que puede ser un riesgo de seguridad, ya que cualquier persona podría modificar o ejecutar el archivo de manera maliciosa.
 ## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura1.PNG)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura2.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura2.PNG)
 ---
 
 ## Ejercicio 3.2: Crear Nuevos Usuarios
@@ -54,7 +54,7 @@
    sudo chown smith:smith /home/smith
    sudo passwd smith
      ```
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura3.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura3.PNG)
 
 ---
 
@@ -90,8 +90,8 @@
 4. **Anotar propiedades:**
    - Usa `ls -l /home/ncs/hello.sh` para ver los permisos y la propiedad del archivo.
    - 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura4.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura5.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura4.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura5.PNG)
 
 ---
 
@@ -133,9 +133,9 @@
      ```
    - Repite los pasos anteriores para verificar acceso a los scripts `hello.sh` y `bob.sh`.
 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura6.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura7.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura8.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura6.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura7.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura8.PNG)
 ---
 
 ## Ejercicio 3.5: Ejercicios Opcionales
@@ -155,6 +155,6 @@
    ```
    - Esto bloquea el acceso al usuario sin eliminarlo.
 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura9.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura10.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura9.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab03_shell/Captura10.PNG)
 ---
