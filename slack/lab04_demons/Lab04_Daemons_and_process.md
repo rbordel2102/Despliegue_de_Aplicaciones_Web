@@ -208,12 +208,12 @@ Realizar tareas adicionales relacionadas con daemons y procesos.
      telnet <ip_debian>
      ```
 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura1.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura2.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura3.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.1.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.2.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.3.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.4.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura5.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura5.1.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura1.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura2.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura3.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.1.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.2.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.3.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura4.4.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura5.PNG)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab04_demons/Captura5.1.PNG)
