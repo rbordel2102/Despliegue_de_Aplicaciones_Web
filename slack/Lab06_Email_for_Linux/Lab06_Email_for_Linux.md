@@ -143,9 +143,9 @@ Completa lo siguiente como **bob**:
 
 ---
 
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab06_Email_for_Linux/lab06-1-1.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab06_Email_for_Linux/lab06-2-1.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab06_Email_for_Linux/lab06-3-1.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab06_Email_for_Linux/lab06-3-2.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab06_Email_for_Linux/lab06-3-3.png)
-## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/lab06_Email_for_Linux/lab06-3-4.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab06_Email_for_Linux/lab06-1-1.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab06_Email_for_Linux/lab06-2-1.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab06_Email_for_Linux/lab06-3-1.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab06_Email_for_Linux/lab06-3-2.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab06_Email_for_Linux/lab06-3-3.png)
+## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab06_Email_for_Linux/lab06-3-4.png)
