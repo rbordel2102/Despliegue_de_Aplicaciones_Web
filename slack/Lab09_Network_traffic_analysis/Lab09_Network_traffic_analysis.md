@@ -117,7 +117,7 @@ lastb
 4. Para ver cuánto tiempo lleva encendido el sistema:
 ```sh
 uptime
-
+```
 ## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab09_Network_traffic_analysis/Captura1.png)
 ## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab09_Network_traffic_analysis/Captura2.png)
 ## ![](https://github.com/rbordel2102/Despliegue/blob/master/slack/Lab09_Network_traffic_analysis/Captura3.png)
